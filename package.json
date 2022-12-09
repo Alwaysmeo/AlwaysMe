@@ -1,13 +1,11 @@
 {
 	"name": "alwaysme",
-	"version": "1.0.0-alpha-1",
+	"version": "1.0.0-dev",
 	"private": false,
-	"title": "AlwaysMe-Vue3",
-	"description": "AlwaysMe UI design language and Vue-based implementation",
+	"title": "AlwaysMe",
+	"description": "AlwaysMe Component Library",
 	"keywords": [
 		"alwaysme",
-		"ui",
-		"vue3",
 		"design",
 		"component library"
 	],
